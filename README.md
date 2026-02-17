@@ -6,6 +6,14 @@ A customizable one-handed mechanical gaming keyboard with 4 programmable keys an
 ![Compatibility](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS-blue)
 ![Connectivity](https://img.shields.io/badge/connectivity-USB-orange)
 
+## 📚 Additional Documentation
+
+- **[🚀 Quick Start Guide](QUICK_START.md)** - Get started in minutes
+- **[💡 Use Cases & Examples](USE_CASES.md)** - Real-world configurations for gaming, editing, coding, and more
+- **[🔧 Troubleshooting Guide](TROUBLESHOOTING.md)** - Solutions to common problems
+- **[❓ FAQ](FAQ.md)** - Frequently asked questions
+- **[📖 Documentation Guide](DOCUMENTATION.md)** - Navigate all documentation
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
